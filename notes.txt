@@ -1,0 +1,24 @@
+Can try many possible methods by do not need to show all the code 
+
+Data splitting:
+- NO MANUAL SPLIT!!!
+- Needs to check the distribution and the correlation of the splits (Will try time series and normal split and decide based on this criteria)
+
+Possible model methods:
+- Linear regression (Regularization)
+- Polinomial regression (How to ?)
+- Hyper parameters = learning rate, alpha, 
+
+EDA methods (only on the training data):
+- Tukey's rule
+- scatter plot
+- boxplot
+
+Feature selection (only based on EDA):
+- maybe discard features that have little to no correlation
+
+Transforming methods: Needs to research on when to use these
+- Power transformer
+- 
+Questions for professor after the assignment:
+- Why does polynomial regression worse than the linear regression
