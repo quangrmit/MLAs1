@@ -22,3 +22,5 @@ Transforming methods: Needs to research on when to use these
 - 
 Questions for professor after the assignment:
 - Why does polynomial regression worse than the linear regression
+- Why does my linear regression spit out large r2 score sometimes (multicolinearity)
+- What seems to be multicolinearity is solved by hot encoding the status
